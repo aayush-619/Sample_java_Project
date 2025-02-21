@@ -1,7 +1,7 @@
 <suite name="TestSuite">
     <test name="Login Test">
         <classes>
-            <class name="com.example.demo_test.LoginTest"/>
+            <class name="demo_test.LoginTest"/>
         </classes>
     </test>
 </suite>
