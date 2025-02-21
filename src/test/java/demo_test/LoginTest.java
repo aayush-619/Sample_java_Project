@@ -16,7 +16,7 @@ public class LoginTest {
     public void setup() {
         System.setProperty("webdriver.chrome.driver", "path/to/chromedriver"); // Update with correct path
         driver = new ChromeDriver();
-        driver.get("file:///C:/Users/YourName/path-to-project/login.html"); // Change to the actual file path
+        driver.get("D:\\Aayush\\mcasem2\\devops\\Prac6\\src\\test\\resources\\login.html"); // Change to the actual file path
     }
 
     @Test
